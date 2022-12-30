@@ -33,7 +33,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibhossainmorul&show_icons=true&locale=en&layout=compact" alt="rakibhossainmorul" /></p>
 
-<br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakibhossainmorul&show_icons=true&locale=en" alt="rakibhossainmorul" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibhossainmorul&" alt="rakibhossainmorul" /></p>
