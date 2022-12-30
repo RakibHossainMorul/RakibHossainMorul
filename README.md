@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md. Rakib Hossain Morul</h1>
+<h1 align="center">Hi, I'm Md. Rakib Hossain Morul</h1>
 <h3 align="center">A passionate @flutter developer and tech enthusiast.</h3>
 
 
