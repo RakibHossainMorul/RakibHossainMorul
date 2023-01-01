@@ -1,3 +1,7 @@
+<head><script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script></head>
+
+
+
 <h1 align="center">Hi, I'm Md. Rakib Hossain Morul</h1>
 <h3 align="center">A passionate @flutter developer and tech enthusiast.</h3>
 
@@ -40,4 +44,4 @@
 
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="rakib-hossain-05b647211" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/rakib-hossain-05b647211?trk=profile-badge">Rakib Hossain</a></div>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
