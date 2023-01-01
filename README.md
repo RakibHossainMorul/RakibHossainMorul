@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi, I'm Md. Rakib Hossain Morul</h1>
-<h3 align="center">A passionate @flutter developer and tech enthusiast.</h3>
+<h3 align="center">A passionate <a href="https://flutter.dev/">Flutter</a> developer and tech enthusiast.</h3>
 
 
 
@@ -16,11 +16,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RakibHossainMorul](https://github.com/RakibHossainMorul)
 
-- 📝 I regularly write articles on [linkedin.com/in/rakib-hossain-05b647211](linkedin.com/in/rakib-hossain-05b647211)
+- 📝 I regularly write articles on [linkedin.com/in/rakib-hossain-morul](linkedin.com/in/rakib-hossain-morul)
 
 - To reach me **hrakibmorul@gmail.com**
 
-- 📄 Know about my skills and experiences [linkedin.com/in/rakib-hossain-05b647211](linkedin.com/in/rakib-hossain-05b647211)
+- 📄 Know about my skills and experiences [linkedin.com/in/rakib-hossain-morul](linkedin.com/in/rakib-hossain-morul)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,7 +40,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibhossainmorul&" alt="rakibhossainmorul" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibhossainmorul&label=Visitors&color=0e75b6&style=flat" alt="rakibhossainmorul" /> </p>
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="rakib-hossain-05b647211" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/rakib-hossain-05b647211?trk=profile-badge">Rakib Hossain</a></div>
 
