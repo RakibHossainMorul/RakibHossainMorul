@@ -37,3 +37,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibhossainmorul&" alt="rakibhossainmorul" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibhossainmorul&label=Visitors&color=0e75b6&style=flat" alt="rakibhossainmorul" /> </p>
+
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="rakib-hossain-05b647211" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/rakib-hossain-05b647211?trk=profile-badge">Rakib Hossain</a></div>
+              
