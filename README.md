@@ -24,10 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/rakib-hossain-05b647211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/rakib-hossain-05b647211" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17790460/rakib-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17790460/rakib-hossain" height="30" width="40" /></a>
-<a href="https://dev.to/https://dev.to/rakibhossainmorul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/rakibhossainmorul" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/mdrakibhossainmorul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mdrakibhossainmorul" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/rakib-hossain-morul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/rakib-hossain-morul" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
