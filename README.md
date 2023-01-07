@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **about various new features of @flutter and building a full-stack flutter application requires a lot of knowledge to become a competent application developer.**
 
-- 👯 I’m looking to collaborate on [flutter opensource apps](https://github.com/HemantPra389/Flutter-Open-Source-Apps.git)
+- 👯 I’m looking to collaborate on [build creative flutter application.](https://flutter.dev/showcase)
 
 - 🤝 I’m looking for help with [cooperation to create something new by combining machine-learning approach and flutter application development.](https://github.com/RakibHossainMorul/machine-learning-approach-flutter.git)
 
