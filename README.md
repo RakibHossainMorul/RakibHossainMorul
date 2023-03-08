@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on [build creative flutter application.](https://flutter.dev/showcase)
 
-- 🤝 I’m looking for help with [cooperation to create something new by combining machine-learning approach and flutter application development.](https://github.com/RakibHossainMorul/machine-learning-approach-flutter.git)
+- 🤝 I’m looking for help with cooperation to create something new by combining ideas and flutter application development.
 
 - 👨‍💻 All of my projects are available at [https://github.com/RakibHossainMorul](https://github.com/RakibHossainMorul)
 
