@@ -16,9 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RakibHossainMorul](https://github.com/RakibHossainMorul)
 
-- 📝 I regularly write articles on [linkedin.com/in/rakib-hossain-morul](https://www.linkedin.com/in/rakib-hossain-morul/)
-
-- 📄 To reach me **hrakibmorul@gmail.com**
+- 📄 To reach me by email **hrakibmorul@gmail.com**
 
 - 📄 Know about my skills and experiences [linkedin.com/in/rakib-hossain-morul](https://www.linkedin.com/in/rakib-hossain-morul/)
 
