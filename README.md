@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi, I'm Md. Rakib Hossain Morul</h1>
-<h3 align="center">A passionate <a href="https://flutter.dev/">Flutter</a> developer and tech enthusiast.</h3>
+<h3 align="center">A passionate Application Developer and Tech Enthusiast.</h3>
 
 
 
@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [linkedin.com/in/rakib-hossain-morul](https://www.linkedin.com/in/rakib-hossain-morul/)
 
-- To reach me **hrakibmorul@gmail.com**
+- 📄 To reach me **hrakibmorul@gmail.com**
 
 - 📄 Know about my skills and experiences [linkedin.com/in/rakib-hossain-morul](https://www.linkedin.com/in/rakib-hossain-morul/)
 
