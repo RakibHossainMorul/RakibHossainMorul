@@ -2,17 +2,17 @@
 
 
 <h1 align="center">Hi, I'm Md. Rakib Hossain Morul</h1>
-<h3 align="center">A passionate Application Developer and Tech Enthusiast.</h3>
+<h3 align="center">A passionate Software Engineer and Tech Enthusiast.</h3>
 
 
 
-- 🔭 I’m currently working on [various types of flutter application development and constantly trying to implement my experience in better projects.](https://github.com/RakibHossainMorul?tab=projects)
+- 🔭 I’m currently working on [various types of application development and constantly trying to implement my experience in better projects.](https://github.com/RakibHossainMorul?tab=projects)
 
-- 🌱 I’m currently learning **about various new features of @flutter and building a full-stack flutter application requires a lot of knowledge to become a competent application developer.**
+- 🌱 I’m currently learning **about various new features of @flutter and building a full-stack application requires a lot of knowledge to become a competent application developer.**
 
 - 👯 I’m looking to collaborate on [build creative flutter application.](https://flutter.dev/showcase)
 
-- 🤝 I’m looking for help with cooperation to create something new by combining ideas and flutter application development.
+- 🤝 I’m looking for help with cooperation to create something new by combining ideas and Software application development.
 
 - 👨‍💻 All of my projects are available at [https://github.com/RakibHossainMorul](https://github.com/RakibHossainMorul)
 
